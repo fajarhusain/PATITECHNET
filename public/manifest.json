@@ -1,0 +1,17 @@
+{
+    "name": "PATITECH.NET",
+    "short_name": "PATITECH",
+    "start_url": "\/index.php",
+    "background_color": "#6777ef",
+    "theme_color": "#6777ef",
+    "description": "Sistem Manajemen Tagihan Pembayaran Internet",
+    "display": "fullscreen",
+    "icons": [
+        {
+            "src": "\/storage\/logos\/BrixeIwQTjqIJgC2t0E0vSTYVdpP1y5EEjBze2tq.png",
+            "sizes": "512x512",
+            "type": "image\/png",
+            "purpose": "any maskable"
+        }
+    ]
+}
